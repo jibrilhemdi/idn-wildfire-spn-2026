@@ -1,0 +1,16 @@
+# Local research archive and GDELT source material
+/archive/
+/gdelt_indonesia_wildfire_2026/
+
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local credentials and operating-system files
+.env
+.env.*
+!.env.example
+.DS_Store
